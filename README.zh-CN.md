@@ -13,7 +13,7 @@
 需要较新的 Rust stable toolchain、Git，以及 macOS 或 Linux 上支持 UTF-8 的终端。
 
 ```sh
-git clone https://github.com/Jackkakaya/YourAI-Harness.git
+git clone https://github.com/Jack4A/YourAI-Harness.git
 cd YourAI-Harness
 cargo install --path apps/yourai-tui --locked
 ```

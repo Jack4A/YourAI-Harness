@@ -13,7 +13,7 @@ English · [简体中文](./README.zh-CN.md)
 You need a recent stable Rust toolchain, Git, and a UTF-8 terminal on macOS or Linux.
 
 ```sh
-git clone https://github.com/Jackkakaya/YourAI-Harness.git
+git clone https://github.com/Jack4A/YourAI-Harness.git
 cd YourAI-Harness
 cargo install --path apps/yourai-tui --locked
 ```
